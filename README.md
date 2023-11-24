@@ -1,0 +1,1 @@
+# jest-30-aliases-update
